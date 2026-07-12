@@ -49,12 +49,6 @@ The dataset is synthetic and was created for educational purposes in partnership
 * Churned users tended to drive longer distances and complete more drives within fewer days.
 * Device type showed no meaningful relationship with user churn.
 
-## Repository Contents
-
-* `Course_1_Waze_Project.ipynb` — Jupyter Notebook
-* `Executive_Summary.pdf` — Project executive summary
-* `PACE_Strategy_Document.pdf` — Project planning document
-* `README.md` — Project documentation
 
 ## Skills Demonstrated
 
