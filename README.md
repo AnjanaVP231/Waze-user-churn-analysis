@@ -1,6 +1,6 @@
 # Waze User Churn Analysis
 
-This repository contains my **Course 1 Portfolio Project** from the **Google Advanced Data Analytics Professional Certificate**.
+ **Course 1 Portfolio Project** from the **Google Advanced Data Analytics Professional Certificate**.
 
 ## Project Overview
 
@@ -32,7 +32,7 @@ The dataset is synthetic and was created for educational purposes in partnership
   * Kilometers per driving day
   * Drives per driving day
 * Analyzed device distribution
-* Prepared an executive summary for stakeholders
+
 
 ## Tools & Technologies
 
